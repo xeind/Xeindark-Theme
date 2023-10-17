@@ -1,8 +1,8 @@
 {
   "name": "xeindark-theme",
-  "displayName": "Xeindark Theme",
-  "description": "Xeindark Theme (Slightly modified One Dark Pro Theme",
-  "version": "0.0.3",
+  "displayName": "Xeindark",
+  "description": "Xeindark Theme",
+  "version": "0.0.4",
   "publisher": "xeindeniel",
   "engines": {
     "vscode": "^1.83.0"
