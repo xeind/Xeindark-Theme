@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xeindeniel/Xeindark-Theme"
+    "url": "https://github.com/xeindeniel/Xeindark-Theme"
   },
   "contributes": {
     "themes": [
