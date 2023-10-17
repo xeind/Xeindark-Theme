@@ -1,14 +1,26 @@
 {
   "name": "xeindark-theme",
   "displayName": "Xeindark Theme",
-  "description": "Slightly modified One Dark Pro",
+  "description": "Xeindark Theme (Slightly modified One Dark Pro Theme",
   "version": "0.0.1",
+  "publisher": "xeindeniel",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "one dark",
+    "xein"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeindeniel/Xeindark-Theme"
+  },
   "contributes": {
     "themes": [
       {
