@@ -1,0 +1,21 @@
+{
+  "name": "xeindark-theme",
+  "displayName": "Xeindark Theme",
+  "description": "Slightly modified One Dark Pro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xeindark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xeindark-color-theme.json"
+      }
+    ]
+  }
+}
