@@ -1,9 +1,4 @@
-# Change Log
-
-All notable changes to the "xeindark-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## v0.0.5
+- Changed minimum version requirement from v1.83 to v1.65
+- Added Changelogs
+- Changed some descriptions

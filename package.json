@@ -1,11 +1,11 @@
 {
   "name": "xeindark-theme",
-  "displayName": "Xeindark",
-  "description": "Xeindark Theme",
-  "version": "0.0.4",
+  "displayName": "Xeindark Theme",
+  "description": "A dark theme for VS Code based on One Dark Pro",
+  "version": "0.0.5",
   "publisher": "xeindeniel",
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.65.0"
   },
   "categories": [
     "Themes"
@@ -15,9 +15,9 @@
     "theme",
     "dark",
     "one dark",
-    "xein"
+    "adwaita"
   ],
-  "icon": "icon.jpg",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/xeindeniel/Xeindark-Theme"
