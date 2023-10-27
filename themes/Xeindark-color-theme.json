@@ -1659,13 +1659,13 @@
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#CE9A68"
+        "foreground": "#E06C75"
       }
     },
     {
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#CE9A68"
+        "foreground": "#E06C75"
       }
     },
     {
