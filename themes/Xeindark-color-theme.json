@@ -2421,10 +2421,10 @@
 		},
 		{
 			"scope": [
-				"variable.other.object"
+				"variable.other.object.js"
 			],
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#e06c75"
 			}
 		},
 		{
@@ -2450,12 +2450,40 @@
 			}
 		},
 		{
+			"scope": [
+                    "variable.other.constant.js",
+                    "punctuation.accessor.js",
+
+            ],
+			"settings": {
+				"foreground": "#BBBBBB"
+			}
+		},
+		{
+			"scope": [
+                "support.variable.property.js",
+                "entity.name.function.js,"
+            ],
+			"settings": {
+				"foreground": "#56B6C2"
+			}
+		},
+		{
+			"scope": [
+                "variable.parameter.js",
+                "meta.object-literal.key.js",
+            ],
+			"settings": {
+				"foreground": "#E06C75"
+			}
+		},
+		{
 			"scope": "entity.name.variable.parameter.php,punctuation.separator.colon.php,constant.other.php",
 			"settings": {
 				"foreground": "#ABB2BF"
 			}
 		},
-		{
+        {
 			"scope": [
 				"constant.numeric.decimal.asm.x86_64"
 			],
@@ -2530,7 +2558,6 @@
 				"keyword.operator.logical.python",
 				"keyword.operator.ternary",
 				"keyword.control.conditionals",
-				"storage.type.js"
 			],
 			"settings": {
 				"foreground": "#D19A66"
@@ -2539,8 +2566,8 @@
 		{
 			"scope": [
 				"variable.other.property",
-				"variable.other.readwrite",
-				"entity.name.function.js.member"
+				"variable.other.readwrite.js",
+				"entity.name.function.js.member",
 			],
 			"settings": {
 				"foreground": "#BBBBBB"
@@ -2552,7 +2579,7 @@
 				"storage.type.format.python",
 				"storage.type.string.python",
 				"storage.type.function.js",
-				"punctuation.definition.block.js"
+				"punctuation.definition.block.js",
 			],
 			"settings": {
 				"foreground": "#5EB6C1"
@@ -2576,7 +2603,10 @@
 		},
 		{
 			"scope": [
-				"storage.type.function.js"
+				"storage.type.function.js",
+				"storage.type.js",
+                "meta.function-call.js",
+
 			],
 			"settings": {
 				"foreground": "#E5C07B"
@@ -2602,7 +2632,6 @@
 			"scope": [
 				"constant.numeric",
 				"constant.language.boolean.true.js",
-				"variable.other.constant.js"
 			],
 			"settings": {
 				"foreground": "#CE9A68"
