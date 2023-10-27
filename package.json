@@ -2,7 +2,7 @@
   "name": "xeindark-theme",
   "displayName": "Xeindark Theme",
   "description": "A dark theme for VS Code based on One Dark Pro",
-  "version": "0.0.8",
+  "version": "0.0.6",
   "publisher": "xeindeniel",
   "engines": {
     "vscode": "^1.65.0"
