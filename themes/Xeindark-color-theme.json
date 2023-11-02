@@ -2492,6 +2492,18 @@
       }
     },
     {
+      "scope": ["entity.name.function.python"],
+      "settings": {
+        "foreground": "#61AFEF"
+      }
+    },
+    {
+      "scope": ["variable.parameter.function-call.python"],
+      "settings": {
+        "foreground": "#dd88a3"
+      }
+    },
+    {
       "scope": ["punctuation.definition.tag"],
       "settings": {
         "foreground": "#6B6872"
